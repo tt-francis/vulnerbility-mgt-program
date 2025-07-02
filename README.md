@@ -48,9 +48,6 @@ This phase focuses on drafting a Vulnerability Management Policy as a starting p
 
 In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
 
-<a href='https://youtu.be/8g6uafc6LjE' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/549d21f4-26c2-412d-9117-d7b6835aedbf"></a>
-
-[YouTube Video: Stakeholder Policy Buy-In Meeting](https://youtu.be/8g6uafc6LjE)
 
 ---
 
@@ -68,9 +65,7 @@ After gathering feedback from the server team, the policy is revised, addressing
 
 The team collaborates with the server team to initiate scheduled credential scans. A compromise is reached to scan a single server first, monitoring resource impact, and using just-in-time Active Directory credentials for secure, controlled access.  
 
-<a href='https://youtu.be/lg068WA4SKM' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/31fe8d0f-636b-475b-8d5a-a2795c183f86"></a>
 
-[YouTube Video: Initial Discovery Scan](https://youtu.be/lg068WA4SKM)
 
 ---
 
@@ -111,10 +106,6 @@ The server team received remediation scripts and scan reports to address key vul
 ### Step 8) Mock Meeting: Post-Initial Discovery Scan (Server Team)
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
-
-<a href="https://youtu.be/0tjjFewxSNw" target="_"><img width="600" src="https://github.com/user-attachments/assets/03027c66-5f7c-42d0-b6dd-09d053c040b1"/></a>
-
-[Meeting Video](https://youtu.be/0tjjFewxSNw)
 
 ---
 
